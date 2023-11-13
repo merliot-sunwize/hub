@@ -8,6 +8,12 @@ github.com/merliot/hub v0.0.0-20231112052310-efb74656ec69 h1:a3uwgvA8gBXOYzrzBut
 github.com/merliot/hub v0.0.0-20231112052310-efb74656ec69/go.mod h1:UWNzbHxuk59gpZBJ5IAPevLmMgnpwhygAJKeV/U7avo=
 github.com/merliot/hub v0.0.0-20231113011921-533d8af76f66 h1:3BZ/rxB5Lo9uWzUZ/GAHk7teC/Wwt+4gY6FAe5B7pz4=
 github.com/merliot/hub v0.0.0-20231113011921-533d8af76f66/go.mod h1:UWNzbHxuk59gpZBJ5IAPevLmMgnpwhygAJKeV/U7avo=
+github.com/merliot/hub v0.0.0-20231113061721-c7fb96314b05 h1:o0MAAV9kF6x8own0YWUS0R1VJMioiZ9uEgBiABm3Vp0=
+github.com/merliot/hub v0.0.0-20231113061721-c7fb96314b05/go.mod h1:UWNzbHxuk59gpZBJ5IAPevLmMgnpwhygAJKeV/U7avo=
+github.com/merliot/hub v0.0.0-20231113064357-44f2395edcaf h1:VjihQavGGVizj83qklAkPrUMchzF7kfTzIb000slZg0=
+github.com/merliot/hub v0.0.0-20231113064357-44f2395edcaf/go.mod h1:UWNzbHxuk59gpZBJ5IAPevLmMgnpwhygAJKeV/U7avo=
+github.com/merliot/hub v0.0.0-20231113074452-85c424565bf4 h1:ERCmjHjKXTGpVLdQbz43xXqGRjongVAVlCeDd7Lhx8g=
+github.com/merliot/hub v0.0.0-20231113074452-85c424565bf4/go.mod h1:UWNzbHxuk59gpZBJ5IAPevLmMgnpwhygAJKeV/U7avo=
 github.com/simonvetter/modbus v1.6.0 h1:RDHJevtc7LDIVoHAbhDun8fy+QwnGe+ZU+sLm9ZZzjc=
 github.com/simonvetter/modbus v1.6.0/go.mod h1:hh90ZaTaPLcK2REj6/fpTbiV0J6S7GWmd8q+GVRObPw=
 github.com/x448/float16 v0.8.4 h1:qLwI1I70+NjRFUR3zs1JPUCgaCXSh3SW62uAKT1mSBM=
