@@ -14,6 +14,11 @@
 		"Name": "DeskSol-Redeploy",
 		"Online": true
 	},
+	"s3": {
+		"Model": "hp2430n",
+		"Name": "BatteryChargingRig",
+		"Online": true
+	},
 	"s4": {
 		"Model": "hp2430n",
 		"Name": "OR-Sys5-Solisto",
