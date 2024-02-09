@@ -5,7 +5,7 @@ go 1.21.5
 require (
 	github.com/merliot/dean v0.0.0-20240117194605-79a37431f285
 	github.com/merliot/hp2430n v0.0.0-20240208101159-3dc74e5f04cb
-	github.com/merliot/hub v0.0.0-20240209051730-11ded8647462
+	github.com/merliot/hub v0.0.0-20240209163227-6f3d63fcf676
 	github.com/merliot/ps30m v0.0.0-20240208101122-3ebe825680ea
 )
 
